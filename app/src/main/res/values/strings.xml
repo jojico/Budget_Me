@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Budget Me</string>
+    <string name="directions">Enter Take home pay below!</string>
+    <string name="box_hint">Enter your weekly check here</string>
+</resources>
